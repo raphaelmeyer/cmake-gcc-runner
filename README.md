@@ -7,7 +7,7 @@ This is a C/C++ runner for CMake projects (based on GCC).
 ```yaml
 runner:
   name: codingame/cmake-gcc-runner
-  version: 1.1-gcc-6.3
+  version: 1.1.0-gcc-6.3
 ```
 
 Your project will be compiled one with:
