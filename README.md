@@ -5,9 +5,7 @@ This is a C/C++ runner for CMake projects (based on GCC).
 ## How to Use it
 
 ```yaml
-runner:
-  name: codingame/cmake-gcc-runner
-  version: 1.1.0-gcc-6.3
+runner: techio/cmake-gcc-runner:1.1.0-gcc-6.3
 ```
 
 Your project will be compiled one with:
