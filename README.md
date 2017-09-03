@@ -5,7 +5,7 @@ This is a C/C++ runner for CMake projects (based on GCC).
 ## How to Use it
 
 ```yaml
-runner: techio/cmake-gcc-runner:1.1.0-gcc-7.1
+runner: raphaelmeyer/cmake-gcc-runner:1.1.0-gcc-7.2
 ```
 
 Your project will be compiled one with:
