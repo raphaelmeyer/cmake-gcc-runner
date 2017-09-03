@@ -10,6 +10,6 @@ if make > /tmp/compilation_logs 2>&1; then
 	"$@"
 else
 	echo "CG> redirect-streams \"Compilation logs\""
-
 	cat /tmp/compilation_logs
+	echo "CG> success false"
 fi
